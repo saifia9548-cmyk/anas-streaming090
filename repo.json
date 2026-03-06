@@ -1,0 +1,8 @@
+{
+  "name": "Anas Streaming",
+  "description": "CloudStream Extension Repo",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/saifia9548-cmyk/anas-streaming090/main/plugins.json"
+  ]
+}
